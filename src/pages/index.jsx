@@ -1,5 +1,5 @@
-import ReactPlayer from 'react-player'
-import Video from "../videos/video01.mp4"
+/*import ReactPlayer from 'react-player'
+import Video from "../videos/video01.mp4"*/
 
 export default function Index(){
   return (
@@ -15,11 +15,11 @@ export default function Index(){
     <div class="lg:container 2xl:w-3/5 mx-auto md:flex gap-5 md:w-full p-3 ">
                 <div class="left bg-character-mario bg-no-repeat bg-contain bg-top w-5/6 md:w-1/2 pt-52 mx-auto">         
                     <div class="card text-center bg-white 2xl:w-5/6 mx-auto mt-72 rounded-2xl overflow-hidden xl:w-4/5">
-                        <div>
+                        {/* <div>
                             <ReactPlayer className="react-player"
                             url={Video} controls	playing
                           />
-                        </div>
+                        </div>*/}
                         <div class="content bg-wave-pattern bg-repeat-x relative -top-3">
                             <h3 class="font-black text-4xl py-10">Play together</h3>
                             <p class="text-xl">Work with (or against) your friends and family*.</p>
@@ -48,11 +48,11 @@ export default function Index(){
                     
                    
                     <div class="card text-center bg-white 2xl:w-5/6 mx-auto mt-16 rounded-2xl overflow-hidden xl:w-4/5">
-                          <div>
+                          {/*<div>
                               <ReactPlayer className="react-player"
                               url={Video} controls	playing
                             />
-                         </div>
+                         </div>*/}
                         <div class="content bg-wave-pattern bg-repeat-x relative -top-3">
                             <h3 class="font-black text-4xl py-8">Explore</h3>
                             <p class="text-xl">Prowl through some popular places.</p>
