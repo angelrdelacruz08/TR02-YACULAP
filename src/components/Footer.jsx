@@ -14,15 +14,7 @@ const Footer = () =>{
                 </div>
 
                 <div class="text-white">
-                    <p class="py-2">*Additional games, systems and/or accessories may be required for multiplayer mode</p> 
-
-<p class="py-2">** Nintendo Switch Online membership (sold separately) and Nintendo Account required for online features. Not available in all countries. Internet access required for online features. A Nintendo Account is required to receive and redeem My Nintendo points. Terms apply. nintendo.com/switch-online. </p>
-
-<p class="py-2">Game, systems, some accessories and amiibo sold separately. Visit amiibo.com for details on amiibo functionality. </p>
-
-<p class="py-2">Nintendo Switch Lite plays all games that support handheld mode.</p>
-
-<p class="py-2">©2013-2021 Nintendo. Super Mario and Nintendo Switch are trademarks of Nintendo.</p>
+                    <p class="py-2">@Todos los derechos reservados Ecoambiental 2023</p>
                 </div>
             </div>
         </section>
