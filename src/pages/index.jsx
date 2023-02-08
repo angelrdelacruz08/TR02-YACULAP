@@ -4,7 +4,7 @@ import Video from "../videos/video01.mp4"*/
 export default function Index(){
   return (
 
-  <div class="w-[1920px] xsm:w-full mx-auto bg-cyan-500 ">
+  <div class="mx-auto bg-cyan-500 ">
     <div>
     <img src="https://www.autonoma.pe/wp-content/uploads/2022/06/autonoma-peru-ingenieria-ambiental.jpg" alt=""/>
     </div>

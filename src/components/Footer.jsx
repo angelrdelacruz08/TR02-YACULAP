@@ -2,8 +2,8 @@
 const Footer = () =>{
   return (
     <footer>
-        <section class="bg-black">
-            <div class="bg-wave-pattern bg-repeat-x h-6 relative -top-4"></div>
+        <section class="bg-black  xsm:w-full mx-auto">
+            <div class="bg-repeat-x h-6 relative -top-4"></div>
 
             <div class="container mx-auto text-center py-10 w-2/3">
                 <div class="pb-5">
