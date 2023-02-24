@@ -3,7 +3,7 @@ const Header = () =>{
   return (
     <header>
       <div class="mx-auto">
-      <nav class="bg-red-500 flex justify-between lg:justify-start items-center">
+      <nav class="bg-red-800 flex justify-between lg:justify-start items-center">
         <div class="logo flex-initial p-2 w-1/6">
                 <img src="https://consultoraecoambiental.com/wp-content/uploads/2023/02/isotipo_negativo.png" width="100" alt=""/>
         </div>
